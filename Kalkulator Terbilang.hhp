@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.0
+Compiled file=Kalkulator Terbilang.chm
+Default Window=new
+Default topic=index.html
+Display compile progress=No
+Language=0x409 English (United States)
+Title=Kalkulator Terbilang
+
+[WINDOWS]
+new="Kalkulator Terbilang",,,"index.html",,,,,,0x2000,,0x0,[500,100,1000,600],0x20000,0x20008,,,,,0
+
+
+[FILES]
+index.html
+jquery.mask.min.js
+jquery-1.11.1.min.js
+
+[INFOTYPES]
+
